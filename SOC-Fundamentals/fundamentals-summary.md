@@ -1,6 +1,6 @@
 # SOC Fundamentals
 
-Welcome to the first step of your career as a SOC analyst. In this lesson, we introduce the structure of Security Operations Centers (SOCs), the essential tools, and the responsibilities of a SOC analyst.
+Welcome to the first step of your career as a SOC analyst. In this lesson, I introduce the structure of Security Operations Centers (SOCs), the essential tools, and the responsibilities of a SOC analyst.
 
 ## 📘 What Will You Learn?
 
@@ -89,6 +89,3 @@ Welcome to the first step of your career as a SOC analyst. In this lesson, we in
 - Shallow log analysis
 - Ignoring timestamps on scans
 
----
-
-To get the most out of this training, divide lessons into daily or weekly goals and revisit important sections regularly.
